@@ -10,8 +10,13 @@
     text-transform: uppercase;
     background-color: lightseagreen;
     color: #f7f7f7;
-    padding: 50px;
+    padding: 35px;
     font-size: 50px;
+}
+
+h1{
+    padding-top: 25px;
+    text-transform: uppercase;
 }
 
 table{
@@ -24,7 +29,7 @@ thead{
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
-    font-size: larger;
+    font-size: large;
 }
 
 th, td{
@@ -38,8 +43,4 @@ td.property{
     background-color:gray;
     color: #f7f7f7;
     text-align: center;
-}
-
-h1, h2{
-    padding-top: 25px;
 }
